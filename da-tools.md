@@ -64,6 +64,3 @@
    - [Документация по Apache Kafka](https://kafka.apache.org/documentation/)
    - [Что такое Apache Kafka?](https://www.confluent.io/what-is-apache-kafka/)
 
----
-
-Надеюсь, этот перевод вам поможет!
