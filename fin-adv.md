@@ -1,4 +1,3 @@
-You're absolutely right! Making financial changes takes time and discipline, but you can use gradual strategies to ease into better habits. Here’s a step-by-step plan to help you stick to those principles over time:
 
 ### 1. **Start Small: Pick One Change at a Time**
 Instead of overhauling your spending overnight, focus on one area at a time. For example, in the first month, you might focus on tracking your expenses. In the next, you could work on reducing eating out or limiting spontaneous trips.
